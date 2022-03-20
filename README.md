@@ -34,3 +34,14 @@ for c in vocales:
 else:
     print('No se ha encontrado el carácter b')
 ```
+- ejercicio7.py  
+Intercambiar valor variables:
+# Intercambiar el valor de dos variables  
+```
+>>> a, b = 1, 2
+>>> print(a, b)
+1 2
+>>> a, b = b, a
+>>> print(a, b)
+2 1
+```
