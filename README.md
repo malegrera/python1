@@ -46,8 +46,16 @@ Intercambiar valor variables:
 2 1
 ```
 ## Ejercicios realizados
-- [ ] Reliable Storage // This is pending
-- [x] Authentication // This is done
+- [ ] ejercicio1.py // This is pending
+- [x] ejercicio2.py // This is done
+- [ ] ejercicio3.py
+- [ ] ejercicio4.py
+- [ ] ejercicio5.py
+- [x] ejercicio6.py
+- [x] ejercicio7.py
+
+## Lenguaje utilizado
+- Python
 
 ## Autor
 **malegrera**
