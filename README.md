@@ -13,10 +13,11 @@ donde `<nombre>` es el nombre que el usuario haya introducido.
 - ejercicio1.py  
   :medal_sports: Escribe un programa que pregunte el nombre y después de que el usuario lo introduzca muestre por pantalla las cadenas  
   `¡Hola <nombre>! - Me alegro de conocerle, <nombre>`  
-  donde `<nombre>` es el nombre que el usuario haya introducido.
+  donde `<nombre>` es el nombre que el usuario haya introducido.  
+ ---
 - ejercicio2.py  
   :smiling_imp:  
-  
+---
 - ejercicio3.py  
 🤖
    
@@ -39,7 +40,7 @@ else:
 ```
 - ejercicio7.py  
 Intercambiar valor variables:
-# Intercambiar el valor de dos variables  
+###### Intercambiar el valor de dos variables  
 ```
 >>> a, b = 1, 2
 >>> print(a, b)
@@ -49,8 +50,8 @@ Intercambiar valor variables:
 2 1
 ```
 ## Ejercicios realizados
-- [ ] #ejercicio1.py // This is pending
-- [x] /(optional)ejercicio2.py // This is done
+- [ ] ejercicio1.py // This is pending
+- [x] ejercicio2.py // This is done
 - [ ] ejercicio3.py
 - [ ] ejercicio4.py
 - [ ] ejercicio5.py
