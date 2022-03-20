@@ -45,3 +45,12 @@ Intercambiar valor variables:
 >>> print(a, b)
 2 1
 ```
+## Ejercicios realizados
+- [ ] Reliable Storage // This is pending
+- [x] Authentication // This is done
+
+## Autor
+**malegrera**
+- [Profile](https://github.com/malegrera "malegrera")
+- [Email](mailto:malegrera@uco.edu?subject=Hi% "Hi!")
+- [Website](https://malegrera.edu "Welcome")
